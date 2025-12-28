@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="40%" valign="top">
 
 ## About Me
 
@@ -12,17 +12,12 @@ Learning is not a phase, it is the process.
 </td>
 <td width="20%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"/>
 
 </td>
 </tr>
 </table>
 
-<p align="left">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300"
-    width="1000"
-  />
-</p>
 
 
 
@@ -48,6 +43,13 @@ Learning is not a phase, it is the process.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300"
+    width="1000"
+  />
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VedAditya-10&limit=5&theme=dark&combine_all_yearly_contributions=true)
