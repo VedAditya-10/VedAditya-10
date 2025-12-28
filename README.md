@@ -2,21 +2,21 @@
   <tr>
     <td width="60%">
       
-### About Me
+# About Me
 
 If "Inquisitive" was a person, you are at his GitHub profile.  
 ML Engineer passionate about AI and emerging technologies.  
 Learning has no boundaries.
 
-    </td>
-    <td width="40%">
+</td>
+  <td width="40%">
     
-    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-    <br><br>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <br><br>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
-    </td>
-    </tr>
+  </td>
+</tr>
 </table>
 
 
