@@ -6,6 +6,7 @@
 
 Curious by nature and driven by systems that learn.  
 ML Engineer exploring AI, data-driven products, and real-world impact. 
+
 Learning is not a phase, it is the process.
 <br><br>
 </td>
@@ -19,7 +20,7 @@ Learning is not a phase, it is the process.
 
 <p align="left">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300"
-    width="500"
+    width="1500"
   />
 </p>
 
