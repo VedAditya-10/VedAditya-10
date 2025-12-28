@@ -5,7 +5,8 @@
 ## About Me
 
 Curious by nature and driven by systems that learn.  
-ML Engineer exploring AI, data-driven products, and real-world impact.  
+ML Engineer exploring AI, data-driven products, and real-world impact. 
+
 Learning is not a phase, it is the process.
 
 </td>
@@ -17,9 +18,13 @@ Learning is not a phase, it is the process.
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500"/>
+<p align="right">
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
+    width="600"
+  />
 </p>
+
 
 
 ##  Socials:
