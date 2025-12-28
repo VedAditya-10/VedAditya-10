@@ -1,31 +1,25 @@
 <table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      
-# About Me
+<tr>
+<td width="60%" valign="top">
 
-If "Inquisitive" was a person, you are at his GitHub profile.  
-ML Engineer passionate about AI and emerging technologies.  
-Learning has no boundaries.
+## About Me
 
-    </td>
-    <td width="40%"></td>
-  </tr>
+Curious by nature and driven by systems that learn.  
+ML Engineer exploring AI, data-driven products, and real-world impact.  
+Learning is not a phase, it is the process.
 
-  <tr>
-    <td></td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-    </td>
-  </tr>
+</td>
+<td width="40%" align="center">
 
-  <tr>
-    <td></td>
-    <td align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-    </td>
-  </tr>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
+
+</td>
+</tr>
 </table>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500"/>
+</p>
 
 
 ##  Socials:
