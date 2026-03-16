@@ -4,10 +4,10 @@
 
 ## 🔭 About Me
 
-Curious by nature and driven by systems that learn.  
+Curious by nature and driven by systems that learn.
+
 ML Engineer exploring AI, data-driven products, and real-world impact. 
 
-Learning is not a phase, it is the process.
 <br><br>
 </td>
 <td width="20%" align="center">
