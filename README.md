@@ -5,8 +5,7 @@
 ## 🔭 About Me
 
 Curious by nature and driven by systems that learn.
-
-ML Engineer exploring AI, data-driven products, and real-world impact. 
+An ML engineer keen about data engineering, analytics, models and whatever interesting problem shows up next.
 
 <br><br>
 </td>
