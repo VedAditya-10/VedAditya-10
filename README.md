@@ -5,7 +5,7 @@
 ## 🔭 About Me
 
 Curious by nature and driven by systems that learn.
-# An ML engineer keen about data engineering, analytics, models and whatever interesting problem shows up next.
+## An ML engineer keen about data engineering, analytics, models and whatever interesting problem shows up next.
 
 <br><br>
 </td>
